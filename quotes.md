@@ -1,1 +1,0 @@
-"There are always more questions than answers." >> quotes.md
